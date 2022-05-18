@@ -1,6 +1,6 @@
 # Python - Finance
 
-Repository containing multiple elements, notebooks and data relative to finance.
+Repository containing multiple utilities, notebooks and data relative to finance.
 
 ## Repository overview
 
